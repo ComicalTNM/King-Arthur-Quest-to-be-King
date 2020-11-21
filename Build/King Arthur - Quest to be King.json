@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "King Arthur and the Knights of the Round Table",
+"dataUrl": "King Arthur - Quest to be King.data.unityweb",
+"wasmCodeUrl": "King Arthur - Quest to be King.wasm.code.unityweb",
+"wasmFrameworkUrl": "King Arthur - Quest to be King.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
